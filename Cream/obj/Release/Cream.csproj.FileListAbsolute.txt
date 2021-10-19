@@ -1,0 +1,16 @@
+C:\Users\spirtskhalava\Desktop\Cream-master\Cream\Cream\bin\Release\Cream.exe.config
+C:\Users\spirtskhalava\Desktop\Cream-master\Cream\Cream\bin\Release\Cream.exe
+C:\Users\spirtskhalava\Desktop\Cream-master\Cream\Cream\bin\Release\Cream.pdb
+C:\Users\spirtskhalava\Desktop\Cream-master\Cream\Cream\bin\Release\en-US\Cream.resources.dll
+C:\Users\spirtskhalava\Desktop\Cream-master\Cream\Cream\obj\Release\Cream.csprojAssemblyReference.cache
+C:\Users\spirtskhalava\Desktop\Cream-master\Cream\Cream\obj\Release\Cream.About.resources
+C:\Users\spirtskhalava\Desktop\Cream-master\Cream\Cream\obj\Release\Cream.Cream.resources
+C:\Users\spirtskhalava\Desktop\Cream-master\Cream\Cream\obj\Release\Cream.Form1.resources
+C:\Users\spirtskhalava\Desktop\Cream-master\Cream\Cream\obj\Release\Cream.Properties.Resources.resources
+C:\Users\spirtskhalava\Desktop\Cream-master\Cream\Cream\obj\Release\Cream.Settings.resources
+C:\Users\spirtskhalava\Desktop\Cream-master\Cream\Cream\obj\Release\Cream.Cream.en-US.resources
+C:\Users\spirtskhalava\Desktop\Cream-master\Cream\Cream\obj\Release\Cream.csproj.GenerateResource.cache
+C:\Users\spirtskhalava\Desktop\Cream-master\Cream\Cream\obj\Release\Cream.csproj.CoreCompileInputs.cache
+C:\Users\spirtskhalava\Desktop\Cream-master\Cream\Cream\obj\Release\en-US\Cream.resources.dll
+C:\Users\spirtskhalava\Desktop\Cream-master\Cream\Cream\obj\Release\Cream.exe
+C:\Users\spirtskhalava\Desktop\Cream-master\Cream\Cream\obj\Release\Cream.pdb
